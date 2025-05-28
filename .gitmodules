@@ -1,0 +1,3 @@
+[submodule "custom_components/mammotion"]
+	path = custom_components/mammotion
+	url = https://github.com/mikey0000/Mammotion-HA.git
